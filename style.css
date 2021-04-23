@@ -1,0 +1,461 @@
+nav {
+    background-color:rgb(223, 198, 198) ;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    padding-top: 100px;
+    top: 0px;
+    left: 0px; 
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 150%;
+    
+}
+
+nav li {
+    display: inline; 
+    width: 100%;
+    margin: 10px;
+}
+
+nav ul {
+    float: right;
+    margin-right: 390px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.logo {
+    padding-left: 77px;
+    width: 100px;
+    margin-top: -99.5px;
+    height: 50px;
+    
+}
+
+.wrap {
+    padding: 3px 0 3px 0;
+    width: 190px;
+    background-color:  rgb(223, 198, 198) ;
+    color: black;
+    margin: 0px 6px 0px 6px;
+}
+
+.banner {
+    margin-top: 80px;
+    padding : 50px 75px 50px;
+    background-color: rgb(119, 17, 17);
+    text-align: center;
+    margin-left: -11px;
+    margin-right: -8px;
+}
+
+.homeBanner {
+    width: 100%;
+    margin: 0px 0px 0px -9px;
+    background-color: rgb(119, 17, 17);
+    margin-top: 80px;
+    padding : 50px 0px 19% 17px;
+    height: 215px;
+}
+
+.gambarHome {
+    float: right;
+    padding-right: 25%;
+}
+
+.bannerHome1 {
+    width: 23%;
+    background-color: rgb(223, 198, 198);
+    padding: 0px 0px 0px 35px;
+    font-size: 45px;
+    margin : -50px 60px 10px;
+    
+}
+
+.bannerHome2 {
+    width: 23%;
+    background-color: rgb(223, 198, 198);
+    padding: 0px 0px 0px 35px;
+    font-size: 45px;
+    margin : -40px 60px 10px
+}
+
+.bannerHome3 {
+    width: 15%;
+    background-color: rgb(118, 94, 136);
+    font-size: 25px;
+    color: white;
+    padding: 0px 0px 0px 35px;
+    margin: 0px 60px 10px;
+}
+
+.bannerHome4 {
+    width: 18%;
+    background-color: rgb(118, 94, 136);
+    font-size: 25px;
+    color: white;
+    padding: 0px 0px 0px 35px;
+    margin: -22px 60px 10px;
+}
+
+.bannerHome5 {
+    width: 18%;
+    background-color: rgb(114, 108, 108);
+    font-size: 25px;
+    color: white;
+    margin: -22px 60px 10px;
+    padding: 0px 0px 0px 35px;
+}
+
+
+
+.bodyHome {
+    background-color: rgb(223, 198, 198);
+    padding: 1px 0px 30px 0px;
+    margin: 0px -8px 0px -8px;
+}
+
+.isiHome1 {
+    margin: 20px 0px 0px 75px;
+}
+
+.isiHome1 p {
+    background-color: rgb(119, 17, 17);
+    color: beige;
+    padding: 10px 10px 10px 10px;
+    margin: -4px 0px 50px 0px;
+    width: 33.9%;
+    text-align: center;
+}
+
+.isiHome2 {
+    margin: 20px 0px 0px 75px;
+}
+
+.isiHome2 p {
+    background-color: rgb(119, 17, 17);
+    color: beige;
+    padding: 10px 10px 10px 10px;
+    margin: -4px 0px 50px 0px;
+    width: 33.9%;
+    text-align: center;
+}   
+
+.isiHome3 {
+    margin: 20px 0px 0px 75px;
+
+}
+
+.isiHome3 p {
+    background-color: rgb(119, 17, 17);
+    color: beige;
+    padding: 10px 10px 10px 10px;
+    margin: -4px 0px 0px 0px;
+    width: 33.9%;
+    text-align: center;
+}
+
+.footer-content{
+	height: 400px;
+	background: #777777;
+	position: relative;
+    margin: 0px -8px 0px -8px;
+}
+.footer-bottom{
+	margin: 0px -8px 0px -8px;
+	height: 20px;
+	color: #adadad;
+	background:black;
+	text-align: center;
+	padding: 5px;
+	border-top: 1px solid rgb(119, 17, 17);
+}
+.footer-content .content-about,
+.footer-content .content-social,
+.footer-content .content-pesan{
+	width: 30%;
+	height: 400px;
+	position: absolute;
+    padding-left: 70px;
+}
+.footer-content .content-about h2{
+	font-family: sans-serif;
+	color: rgb(119, 17, 17);
+	text-align: center;
+	font-size: 30px;
+	line-height: 100px;
+
+}
+.footer-content .content-about p{
+	font-style: times new roman;
+	color: white;
+	text-align: center;
+}
+.footer-content .content-social{
+	margin-left: 700px;
+
+}
+.footer-content .content-pesan{
+	margin-left: 1200px;
+}
+.footer-content .content-pesan h2 {
+	color: rgb(119, 17, 17);
+	font-family: sans-serif;
+	font-size: 30px;
+	text-align: center;
+	line-height: 100px;
+}
+
+.footer-content .content-social h2{
+    color: rgb(119, 17, 17);
+	font-family: sans-serif;
+	font-size: 30px;
+	text-align: center;
+	line-height: 100px;
+    padding-right: 135px;
+}
+.footer-content .content-social li{
+	margin-bottom: 30px;
+	margin-left: 80px;
+}
+.footer-content .content-social li a{
+	
+	text-decoration: none;
+	color: white;
+	font-style: arial;
+
+}
+.footer-content .content-pesan input{
+	display: block;
+	margin-left: 100px;
+	margin-bottom: 30px;
+
+}
+.footer-content .content-pesan .email{
+	width: 70%;
+
+}
+.footer-content .content-pesan .isi{
+	width: 70%;
+	height: 80px;
+}
+.footer-content .content-pesan .btn{
+	padding: 5px;
+}
+.footer-content .content-pesan .btn:hover{
+	background: lightblue;
+	color: black;
+	cursor: pointer;
+}
+.footer-content .content-social li a:hover{
+	margin-left: 10px;
+	color: orange;
+
+}
+
+.bckgrndPorto {
+    background-color: rgb(223, 198, 198);
+    margin: 0px -8px 0px -8px;
+    padding: 15px 0px 8% 0px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.txtPorto {
+    background-color: rgb(119, 17, 17);
+    display: inline-block;
+    font-size: 30px;
+    padding: 0px 100px 0px 100px;
+    color: white;
+    margin : 0px 567px 0px 567px;
+}
+
+.bckgrndBlog {
+    background-color: rgb(223, 198, 198);
+    margin: 0px -8px 0px -8px;
+    padding: 15px 0px 8% 0px;
+}
+
+.txtBlog {
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
+}
+
+.isiBlog {
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+}
+
+.clickModal2 {
+    margin: 30px 0px 0px 45%;
+    padding: 5px 0px 5px 0px;
+    border-radius: 20%;
+    background-color: rgb(162, 67, 67);
+    color: white;
+}
+
+.bckgrndAbt {
+    background-color: rgb(223, 198, 198);
+    margin: 0px -8px -4px -8px;
+    padding: 15px 0px 5% 0px;
+    display: inline-block;
+}
+
+.isiAbt {
+    padding: 10px 10px 10px 41px;
+    display: block;
+    float: left;
+    font-size: 8px;
+}
+
+.txtAbt1 {
+    margin: -485px 50px 0px 930px;
+    display: block;
+    float: left;
+}
+
+.img2Abt {
+    margin: 20px 0px 0px 920px;
+    
+}
+
+.txtAbt2 {
+    margin: -480px 950px 0px 0px;
+}
+
+.bckgrndCont {
+    background-color: rgb(223, 198, 198);
+    margin: 0px -8px 0px -8px;
+    padding: 15px 0px 8% 0px;
+}
+
+.isiCont1 {
+    margin: 50px 0px -20px 75px;
+}
+
+.textCont2 {
+    padding: 30px 183px 30px 183px;
+    margin: 30px 0px 0px 0px;
+}
+
+.submitCont {
+    text-decoration: none;
+    background-color: rgb(162, 67, 67);
+    color: white;
+    margin: 0px 0px 0px 355px;
+    padding: 15px 20px 15px 20px;
+}
+
+.isiCont2 {
+    float: left;
+    margin: -250px 0px 0px 1300px;
+}
+
+.txtCont1 {
+    margin: 0px 0px 0px 0px;
+}
+
+.emailCont {
+    text-decoration: none;
+    background-color: rgb(162, 67, 67);
+    color: white;
+    padding: 5px 5px 5px 5px;
+}
+
+.loremCont {
+    padding: 0px 0px 0px 110px;
+    margin: 20px 0px 0px -110px;
+}
+
+.checklist {
+    text-decoration: line-through;
+}
+
+.todosList ul {
+    list-style-type: none;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #00e4d1;
+  }  
+
+.bckgrndTodos {
+    background: rgb(223, 198, 198);
+    padding: 1px 0px 21% 0px;
+    margin: 0px -8px 0px -9px
+}
+
+.todosApp {
+    margin: 50px 0px 50px 42%;
+}
+
+.todosInput {
+    width: 250px;
+    outline: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 1rem;
+}
+
+.todosButton {
+    background-color: #f3e417;
+    color: rgb(0, 0, 0);
+    border: none;
+    outline: none;
+    border-radius: 20%;
+    padding: 7px;
+    font-size: 1.2rem;
+}
+
+.todosList {
+    min-width: 350px;
+}
+
+.list {
+    background-color: #fff;
+    padding: 10px;
+    font-size: 1 rem;
+    border-radius: 10px;
+    margin: 0px 39%;
+}
+
+.todosChecklist {
+    margin-right: 10px
+}
+
+.todosDel {
+    float: right;
+    background-color: #ff2c2c;
+    color: black;
+    border-radius: 30%;
+    border: none;
+    outline: none;
+    padding: 2px 5px;
+    margin-left: 10px;
+    font-size: 1.1rem;
+    font-weight: 550;
+}
+
+.clickModal {
+    margin: 100px 0px 0px 60px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 20%;
+    background-color: rgb(223, 198, 198);
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+.todosList li {
+    list-style-type: none;
+}
